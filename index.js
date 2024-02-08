@@ -1,95 +1,96 @@
+
 const perguntas = [
-    {
-      pergunta: "Qual é a forma correta de declarar uma variável em JavaScript?",
-      respostas: [
-        "var myVar;",
-        "let myVar;",
-        "const myVar;"
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual método é usado para imprimir algo no console em JavaScript?",
-      respostas: [
-        "console.print()",
-        "print()",
-        "console.log()"
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual símbolo é usado para atribuição de valor em JavaScript?",
-      respostas: [
-        "=",
-        ":",
-        "=="
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é o resultado da expressão '2' + 2 em JavaScript?",
-      respostas: [
-        "22",
-        "4",
-        "Erro"
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual função é usada para converter uma string em um número inteiro em JavaScript?",
-      respostas: [
-        "parseInt()",
-        "toFloat()",
-        "convertToInt()"
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é a saída do seguinte código: console.log(typeof undefined);",
-      respostas: [
-        "Undefined",
-        "null",
-        "undefined"
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual método é usado para adicionar um elemento ao final de um array em JavaScript?",
-      respostas: [
-        "push()",
-        "append()",
-        "add()"
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual operador é usado para verificar se dois valores são iguais em JavaScript?",
-      respostas: [
-        "==",
-        "===",
-        "="
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual é a função usada para criar um novo elemento HTML em JavaScript?",
-      respostas: [
-        "createNewElement()",
-        "createElement()",
-        "newElement()"
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual método é usado para remover o último elemento de um array em JavaScript?",
-      respostas: [
-        "pop()",
-        "remove()",
-        "deleteLast()"
-      ],
-      correta: 0
-    }
-  ];
+  {
+    pergunta: "Qual é o animal mais rápido do mundo?",
+    respostas: [
+      "Leão",
+      "Pombo",
+      "Guepardo"
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual é o país mais populoso do mundo?",
+    respostas: [
+      "Índia",
+      "Estados Unidos",
+      "China"
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Quem pintou a Mona Lisa?",
+    respostas: [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso"
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual é o elemento mais abundante na crosta terrestre?",
+    respostas: [
+      "Oxigênio",
+      "Ferro",
+      "Silício"
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual é a capital do Canadá?",
+    respostas: [
+      "Toronto",
+      "Ottawa",
+      "Vancouver"
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Quem foi o primeiro ser humano a viajar para o espaço?",
+    respostas: [
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Buzz Aldrin"
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é a montanha mais alta do mundo?",
+    respostas: [
+      "Monte Everest",
+      "K2",
+      "Makalu"
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é a maior ilha do mundo?",
+    respostas: [
+      "Groenlândia",
+      "Austrália",
+      "Ilha de Baffin"
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Quem escreveu 'A Origem das Espécies'?",
+    respostas: [
+      "Isaac Newton",
+      "Charles Darwin",
+      "Albert Einstein"
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual é a velocidade da luz?",
+    respostas: [
+      "300.000 km/s",
+      "200.000 km/s",
+      "150.000 km/s"
+    ],
+    correta: 0
+  }
+];
   
   // Pegando quiz e template do HTML
   const quiz = document.querySelector("#quiz")
