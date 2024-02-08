@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Teste de Conhecimentos Gerais é um site criado para estudar noções básicas de CSS, HTML e JS e se divertir respondendo perguntas ao mesmo tempo.
 
-- [Acesse o projeto finalizado, online](https://github.com/raphatardin/teste-de-conhecimentos/)
+- [Acesse o projeto finalizado, online](https://raphatardin.github.io/teste-de-conhecimentos/)
 
 
 ## :memo: Licença
