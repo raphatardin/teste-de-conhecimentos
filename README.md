@@ -11,7 +11,7 @@ Site básico de perguntas gerais, criado na NLW Experts da RocketSeat <br/>
 </p>
 
 <p align="center">
-  <iframe src="https://drive.google.com/file/d/10il5EOw79wWUChLV6n79H_sjYqCG1G6F/preview" width="640" height="480" allow="autoplay"></iframe>
+  <img alt="License" src="https://drive.google.com/file/d/10il5EOw79wWUChLV6n79H_sjYqCG1G6F/view?usp=sharing">
 </p>
 
 <br>
